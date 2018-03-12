@@ -9,7 +9,7 @@ El objetivo del hackathon consiste en modificar la aplicación Budgety de la sig
 
 Para ello, comenzaremos clonando el repositorio con la estructura base:
 
-*$ git clone **[https://github.com/20Heroes/budgety-app-base.gi*t](https://github.com/20Heroes/budget-app-base.git)
+*$ git clone [https://github.com/20Heroes/budgety-app-base.git](https://github.com/20Heroes/budget-app-base.git)*
 
 Instalaremos todas las dependencias necesarias:
 
@@ -19,7 +19,7 @@ Ejecutaremos el servidor web que servirá la aplicación y tendrá en cuenta tod
 
 *$ npm run watch*
 
-La aplicación estará accesible en la dirección *[http://localhost:300*0](http://localhost:3000)
+La aplicación estará accesible en la dirección *[http://localhost:3000](http://localhost:3000)*
 
 ## Guía de referencia
 
